@@ -1,8 +1,10 @@
 ![image](https://github.com/hoanga2dtk68/KCSC-CTF2023/assets/110059218/8cb054de-edc0-4836-9108-07b5fd174d94)
 
 [link down virtual machine](https://drive.google.com/file/d/1uOFf2TN2-y0_mnixzeWQ3q9OaK7WiLd-/view?usp=drivesdk)
+
 Hint 1: nói về việc dăng nhập vào virtual machine qua ssh
-hint 2: nó về CVE đó và cách decrypt nó để lấy máy ảo lúc chưa bị mã hóa
+
+Hint 2: nó về CVE đó và cách decrypt nó để lấy máy ảo lúc chưa bị mã hóa
 
 [Link solution](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-039a)
 
