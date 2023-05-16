@@ -3,7 +3,7 @@
 Mount ổ lên máy và xem log xem có gì không
 Đồng thời đầu bài cũng là một gợi ý rất quan trọng 
 ![image](https://github.com/hoanga2dtk68/KCSC-CTF2023/assets/110059218/408405a1-4a8f-42c0-85e4-f745db723ff7)
-xem log powershell thì cũng thấy có nhiều các script khác nhau được cảnh báo
+xem log powershell thì cũng thấy có nhiều các script khác nhau được cảnh báo và thông báo đang bbị remote từ xa
 ![image](https://github.com/hoanga2dtk68/KCSC-CTF2023/assets/110059218/1e7527dc-8775-4a3b-8ec5-7d6c4fbba0ee)
 cho thấy đây cũng là một trojan đúng theo tên của đầu bài
 Sau khi tìm nguồn gốc của trojan thì nó sinh ra từ chrome
