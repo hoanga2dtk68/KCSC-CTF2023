@@ -15,4 +15,5 @@ Khôi phục thành công máy ảo ban đầu rồi và giờ lấy nó về v�
 ![image](https://github.com/hoanga2dtk68/KCSC-CTF2023/assets/110059218/350e39a8-cdf8-420e-8804-cf82cf4d3919)
 Vào máy ảo đọc file secrets.txt và thêm chữ R vào đầu vào decode base64 để lấy flag
 ![image](https://github.com/hoanga2dtk68/KCSC-CTF2023/assets/110059218/2b65a914-6890-41a1-8505-d0609aff751b)
+
 flag: KCSC{E5%1A2G5-2eC0ve2_EA5y}
