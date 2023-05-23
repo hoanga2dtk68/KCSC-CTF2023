@@ -7,8 +7,18 @@ Hint 1: nói về việc dăng nhập vào virtual machine qua ssh
 Hint 2: nó về CVE đó và cách decrypt nó để lấy máy ảo lúc chưa bị mã hóa
 
 [Link solution](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-039a)
+Mở máy ảo và bật đăng nhập ssh và shell để thực hiện khôi phục máy
 
-Đầu tiên chúng ta vào máy ảo và tải file khôi theo hướng dẫn của bài trên và giải mã máy ảo
+**tk: root
+mk: root@123**
+
+*f2 để đăng nhập*
+
+Đăng nhập rồi chọn Troubleshooting Mode Options -> enable EXSI shell và ssh
+
+![image](https://github.com/hoanga2dtk68/KCSC-CTF2023/assets/110059218/e415389b-c806-4f29-a5da-2b01d70ddbc3)
+
+Chúng ta tải file khôi theo hướng dẫn của bài trên và giải mã máy ảo
 ![image](https://github.com/hoanga2dtk68/KCSC-CTF2023/assets/110059218/615c9a89-018e-45a2-9873-5cd55623b291)
 ![image](https://github.com/hoanga2dtk68/KCSC-CTF2023/assets/110059218/9de4d8e2-dad0-46b1-8703-0f154c4ff593)
 Khôi phục thành công máy ảo ban đầu rồi và giờ lấy nó về và chạy trên VMWARE để  lấy flag thôi
