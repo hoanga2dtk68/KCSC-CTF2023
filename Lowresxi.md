@@ -18,6 +18,8 @@ mk: root@123**
 
 ![image](https://github.com/hoanga2dtk68/KCSC-CTF2023/assets/110059218/e415389b-c806-4f29-a5da-2b01d70ddbc3)
 
+*Đăng nhập ssh: ssh username@ip*
+
 Chúng ta tải file khôi theo hướng dẫn của bài trên và giải mã máy ảo
 ![image](https://github.com/hoanga2dtk68/KCSC-CTF2023/assets/110059218/615c9a89-018e-45a2-9873-5cd55623b291)
 ![image](https://github.com/hoanga2dtk68/KCSC-CTF2023/assets/110059218/9de4d8e2-dad0-46b1-8703-0f154c4ff593)
